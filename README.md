@@ -1,3 +1,5 @@
+<img src="https://tinyurl.com/2avdtf9v"/>
+
 # Gym Landing Page - React and TypeScript
 
 This is a gym landing page built using React and TypeScript, aimed at showcasing the gym's services and attracting potential customers. It features a modern and responsive design, providing an excellent user experience across various devices.
