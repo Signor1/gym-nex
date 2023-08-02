@@ -1,4 +1,4 @@
-<img src="https://tinyurl.com/2avdtf9v"/>
+<img src="https://github.com/Signor1/gym-nex/blob/bc543fd5d43498e288322dc8394280cfe7863724/GymNEx.png"/>
 
 # Gym Landing Page - React and TypeScript
 
